@@ -1,5 +1,5 @@
-﻿int resp;
-do(
+﻿int resp = 0;
+do{
     Console.WriteLine("Ir para onde?");
     resp = Convert.ToInt32(Console.ReadLine());
     switch(resp){
@@ -19,15 +19,15 @@ do(
     default:
         break;
     }
-)while(resp != 7);
+}while(resp != 7);
 
 static void Ex01(){
     string sair = "";
     do{
         int largura;
-        Console.WriteLine("Informe a Largura: ");
+        Console.WriteLine("Informe a Largura:");
         largura = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Informe a Altura: ");
+        Console.WriteLine("Informe a Altura:");
         int altura = Convert.ToInt32(Console.ReadLine());
         int area = largura * altura;
         Console.WriteLine("A área é: " + area);

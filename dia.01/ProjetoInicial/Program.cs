@@ -28,7 +28,7 @@ do{
 }while(resp != 7);
 
 void GerarMenu() {
-    Console.WriteLine("-=X Menu Inicial X=-");
+    Console.WriteLine("\n-=X Menu Inicial X=-");
     Console.WriteLine("1 - Calcular área");
     Console.WriteLine("2 - Conversão de moeda");
     Console.WriteLine("3 - Comparar números");
@@ -40,50 +40,66 @@ void GerarMenu() {
 
 
 void Ex01(){
-    Console.WriteLine("-=X Calcular Área X=-");
+    Console.WriteLine("\n-=X Calcular Área X=-");
     string sair;
     do{
-        Console.WriteLine("\nInforme a Largura:");
-        int largura = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Informe a Largura:");
+        double largura = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Informe a Altura:");
-        int altura = Convert.ToInt32(Console.ReadLine());
-        int area = largura * altura;
-        Console.WriteLine("A área é: " + area);
+        double altura = Convert.ToDouble(Console.ReadLine());
+        double area = largura * altura;
+        Console.WriteLine("A área é: " + Math.Round(area , 2));
         Console.WriteLine("\nDeseja sair? [S/N]");
         sair = Console.ReadLine();
     }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));
 }
 
 void Ex02(){
-    Console.WriteLine("-=X Conversão de Moeda X=-");
+    Console.WriteLine("\n-=X Conversão de Moeda X=-");
     string sair;
     do{
-        Console.WriteLine("\nInforme o valor para ser convertido (em R$)");
-        double real = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Informe o valor para ser convertido (em R$)");
+        double real = Convert.ToDouble(Console.ReadLine());
         double dolar = real / 5.18;
         double euro = real / 5.31;
         double peso = real / 0.04;
-        Console.WriteLine(real + " reais são equivalentes a:");
-        Console.WriteLine(dolar + " dólares");
-        Console.WriteLine(euro + " euros");
-        Console.WriteLine(peso + " pesos argentinos");
+        Console.WriteLine("\n" + real + " reais são equivalentes a:");
+        Console.WriteLine(Math.Round(dolar, 2) + " dólares");
+        Console.WriteLine(Math.Round(euro, 2) + " euros");
+        Console.WriteLine(Math.Round(peso, 2) + " pesos argentinos");
         Console.WriteLine("\nDeseja sair? [S/N]");
         sair = Console.ReadLine();
     }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));
 }
 
 void Ex03(){
-    Console.WriteLine("-=X Comparar Números X=-");
+    Console.WriteLine("\n-=X Comparar Números X=-");
+    string sair;
+    do{
+        Console.WriteLine("Informe o primeiro número");
+        double n1 = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Informe o segundo número");
+        double n2 = Convert.ToDouble(Console.ReadLine());
+        if(n1 < n2){
+            Console.WriteLine("\n" + n1 + " é menor do que " + n2);
+        } else if (n1 > n2){
+            Console.WriteLine("\n" + n1 + " é maior do que " + n2);
+        } else {
+            Console.WriteLine("\nOs números são iguais");
+        }
+        Console.WriteLine("\nDeseja sair? [S/N]");
+        sair = Console.ReadLine();
+    }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));
 }
 
 void Ex04(){
-    Console.WriteLine("-=X Verificar Faixa Etária X=-");
+    Console.WriteLine("\n-=X Verificar Faixa Etária X=-");
 }
 
 void Ex05(){
-    Console.WriteLine("-=X Fibonacci X=-");
+    Console.WriteLine("\n-=X Fibonacci X=-");
 }
 
 void Ex06(){
-    Console.WriteLine("-=X 1000 Números X=-");
+    Console.WriteLine("\n-=X 1000 Números X=-");
 }

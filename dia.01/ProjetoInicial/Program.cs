@@ -26,6 +26,14 @@ do{
         break;
     }
 }while(resp != 7);
+Console.WriteLine("\nDesligando");
+Thread.Sleep(1000);
+Console.WriteLine(".");
+Thread.Sleep(1000);
+Console.WriteLine(".");
+Thread.Sleep(1000);
+Console.WriteLine(".");
+Thread.Sleep(1000);
 
 void GerarMenu() {
     Console.WriteLine("\n-=X Menu Inicial X=-");
@@ -154,7 +162,24 @@ void Ex06(){
     Console.WriteLine("\n-=X 1000 Números X=-");
     string sair;
     do{
+        Console.WriteLine("Gerando números");
+        Thread.Sleep(2000);
+        Console.WriteLine(".");
+        Thread.Sleep(2000);
+        Console.WriteLine(".");
+        Thread.Sleep(2000);
+        Console.WriteLine(".");
+        Thread.Sleep(1000);
+        Console.WriteLine(".");
 
+        int[] listaNum = new int[1000];
+        Random numGerar = new();
+        for(int i = 1; i < 1001; i++){
+            listaNum[i-1] = numGerar.Next(1, 1001);
+        }
+        Array.Sort(listaNum);
+        string numeros = string.Join(",", listaNum);
+        Console.WriteLine("\n" + numeros);
         Console.WriteLine("\nDeseja sair? [S/N]");
         sair = Console.ReadLine();
     }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));

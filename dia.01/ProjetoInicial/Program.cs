@@ -148,8 +148,14 @@ void Ex05(){
                         if(fiboC < limite){
                             Console.WriteLine(fiboC);
                             fiboB = fiboA + fiboC;
+                        } else {
+                            break;
                         }
+                    } else {
+                        break;
                     }
+                } else {
+                    break;
                 }
             }while(fiboA < limite);
         }

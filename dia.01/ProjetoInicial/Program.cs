@@ -94,12 +94,68 @@ void Ex03(){
 
 void Ex04(){
     Console.WriteLine("\n-=X Verificar Faixa Etária X=-");
+    string sair;
+    do{
+        Console.WriteLine("Informe a idade");
+        int idade = Convert.ToInt32(Console.ReadLine());
+        if(idade <= 13){
+            Console.WriteLine("\n" + idade + " anos é criança");
+        } else if (idade <= 18){
+            Console.WriteLine("\n" + idade + " anos é adolecente");
+        } else if (idade <= 60){
+            Console.WriteLine("\n" + idade + " anos é adulto");
+        } else {
+            Console.WriteLine("\n" + idade + " anos é idoso");
+        }
+        Console.WriteLine("\nDeseja sair? [S/N]");
+        sair = Console.ReadLine();
+    }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));
 }
 
 void Ex05(){
     Console.WriteLine("\n-=X Fibonacci X=-");
+    string sair;
+    do{
+        Console.WriteLine("Insira um número");
+        int limite = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine();
+        int fiboA = 0;
+        int fiboB = 1;
+        int fiboC;
+        if(limite <= fiboB){
+            if(limite == fiboA){
+                Console.WriteLine(fiboA);
+            } else {
+                Console.WriteLine(fiboA);
+                Console.WriteLine(fiboB);
+            }
+        } else {
+            do{
+                if(fiboA < limite){
+                    Console.WriteLine(fiboA);
+                    fiboC = fiboA + fiboB;
+                    if(fiboB < limite){
+                        Console.WriteLine(fiboB);
+                        fiboA = fiboC + fiboB;
+                        if(fiboC < limite){
+                            Console.WriteLine(fiboC);
+                            fiboB = fiboA + fiboC;
+                        }
+                    }
+                }
+            }while(fiboA < limite);
+        }
+        Console.WriteLine("\nDeseja sair? [S/N]");
+        sair = Console.ReadLine();
+    }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));
 }
 
 void Ex06(){
     Console.WriteLine("\n-=X 1000 Números X=-");
+    string sair;
+    do{
+
+        Console.WriteLine("\nDeseja sair? [S/N]");
+        sair = Console.ReadLine();
+    }while(sair.Equals("N", StringComparison.OrdinalIgnoreCase));
 }

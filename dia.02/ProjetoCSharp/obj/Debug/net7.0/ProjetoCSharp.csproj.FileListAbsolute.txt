@@ -1,0 +1,15 @@
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\bin\Debug\net7.0\ProjetoCSharp.exe
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\bin\Debug\net7.0\ProjetoCSharp.deps.json
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\bin\Debug\net7.0\ProjetoCSharp.runtimeconfig.json
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\bin\Debug\net7.0\ProjetoCSharp.dll
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\bin\Debug\net7.0\ProjetoCSharp.pdb
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.csproj.AssemblyReference.cache
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.AssemblyInfoInputs.cache
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.AssemblyInfo.cs
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.dll
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\refint\ProjetoCSharp.dll
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.pdb
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ProjetoCSharp.genruntimeconfig.cache
+C:\_workspace\_henri.visual.apps\VisualSoftAulas\dia.02\ProjetoCSharp\obj\Debug\net7.0\ref\ProjetoCSharp.dll

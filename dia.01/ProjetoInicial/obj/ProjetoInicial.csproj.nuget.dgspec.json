@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj": {}
+    "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj": {}
   },
   "projects": {
-    "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj": {
+    "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj",
+        "projectUniqueName": "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj",
         "projectName": "ProjetoInicial",
-        "projectPath": "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.01\\ProjetoInicial\\obj\\",
+        "projectPath": "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.01\\ProjetoInicial\\ProjetoInicial.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.01\\ProjetoInicial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\bin\Debug\net6.0\AtividadeObj.exe
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\bin\Debug\net6.0\AtividadeObj.deps.json
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\bin\Debug\net6.0\AtividadeObj.runtimeconfig.json
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\bin\Debug\net6.0\AtividadeObj.dll
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\bin\Debug\net6.0\AtividadeObj.pdb
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.csproj.AssemblyReference.cache
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.AssemblyInfoInputs.cache
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.AssemblyInfo.cs
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.csproj.CoreCompileInputs.cache
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.dll
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\refint\AtividadeObj.dll
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.pdb
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\AtividadeObj.genruntimeconfig.cache
+D:\Matheus\Documents\Faculdade\VisualSoftAulas\dia.02\AtividadeObj\obj\Debug\net6.0\ref\AtividadeObj.dll

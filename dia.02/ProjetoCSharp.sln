@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCSharp", "ProjetoCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCSharpOBJ", "ProjetoCSharpOBJ\ProjetoCSharpOBJ.csproj", "{494335BA-1B63-46B5-ABAE-BF3F836EDB30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeObj", "AtividadeObj\AtividadeObj.csproj", "{8B6C0270-D06A-431C-9CAD-C355404013EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{494335BA-1B63-46B5-ABAE-BF3F836EDB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{494335BA-1B63-46B5-ABAE-BF3F836EDB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{494335BA-1B63-46B5-ABAE-BF3F836EDB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6C0270-D06A-431C-9CAD-C355404013EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6C0270-D06A-431C-9CAD-C355404013EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6C0270-D06A-431C-9CAD-C355404013EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6C0270-D06A-431C-9CAD-C355404013EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

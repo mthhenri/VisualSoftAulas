@@ -1,4 +1,4 @@
-namespace Namespace.Models;
+namespace AtividadeObj.Models;
 public class ListaDeTarefas
 {
     public List<Tarefa>? Tarefas { get; set; } = new();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {}
+    "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {}
   },
   "projects": {
-    "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {
+    "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
+        "projectUniqueName": "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
         "projectName": "AtividadeObj",
-        "projectPath": "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
+        "projectPath": "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\obj\\",
+        "outputPath": "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,4 +1,4 @@
-namespace Namespace.Models;
+namespace AtividadeObj.Models;
 public class Tarefa
 {
     public string Nome { get; set; }

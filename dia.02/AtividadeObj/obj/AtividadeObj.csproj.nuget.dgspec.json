@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {}
+    "C:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {}
   },
   "projects": {
-    "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {
+    "C:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
+        "projectUniqueName": "C:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
         "projectName": "AtividadeObj",
-        "projectPath": "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "d:\\Matheus\\Documents\\Faculdade\\VisualSoftAulas\\dia.02\\AtividadeObj\\obj\\",
+        "projectPath": "C:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

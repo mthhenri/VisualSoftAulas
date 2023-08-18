@@ -161,8 +161,8 @@ void ListTasks()
     } else {
         foreach (Tarefa tarefa in listaTarefas.ListTask())
         {
-            Console.WriteLine($"Tarefa: {tarefa.Nome} | Concluída? {tarefa.Concluida}");
-            Console.WriteLine($"Descrição: {tarefa.Descricao}\n");
+            Console.WriteLine($"\nTarefa: {tarefa.Nome} | Concluída? {tarefa.Concluida}");
+            Console.WriteLine($"Descrição: {tarefa.Descricao}");
         }
     }
 }

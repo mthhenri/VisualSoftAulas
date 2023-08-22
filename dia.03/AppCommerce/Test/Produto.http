@@ -1,0 +1,14 @@
+//### Cadastrar
+//POST https://localhost:7268/api/produto/cadastrar
+
+//### Listar
+//GET https://localhost:7268/api/produto/listar
+
+//### Detalhar
+//GET https://localhost:7268/api/produto/detalhar/1
+
+//### Atualizar
+//PUT https://localhost:7268/api/produto/atualizar/1
+
+//### Deletar
+//DELETE https://localhost:7268/api/produto/deletar/1

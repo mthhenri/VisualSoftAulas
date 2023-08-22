@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\Matheus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
+      "projectUniqueName": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
       "projectName": "AtividadeObj",
-      "projectPath": "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "c:\\_workspace\\_henri.visual.apps\\VisualSoftAulas\\dia.02\\AtividadeObj\\obj\\",
+      "projectPath": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.02\\AtividadeObj\\AtividadeObj.csproj",
+      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+      "outputPath": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.02\\AtividadeObj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

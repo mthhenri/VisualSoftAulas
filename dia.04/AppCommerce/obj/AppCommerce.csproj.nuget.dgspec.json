@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj": {}
+    "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj": {}
   },
   "projects": {
-    "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj": {
+    "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj",
+        "projectUniqueName": "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj",
         "projectName": "AppCommerce",
-        "projectPath": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj",
+        "projectPath": "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\AppCommerce.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\obj\\",
+        "outputPath": "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.04\\AppCommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj": {}
+    "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj": {}
   },
   "projects": {
-    "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj": {
+    "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj",
+        "projectUniqueName": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj",
         "projectName": "AppCommerce",
-        "projectPath": "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj",
+        "projectPath": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\AppCommerce.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\obj\\",
+        "outputPath": "d:\\Matheus\\_workspace\\VisualSoftAulas\\dia.03\\AppCommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
